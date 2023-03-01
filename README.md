@@ -1,2 +1,2 @@
 # fuzzylogic
-Im learning fuzzy logics
+Im learning fuzzy logic
